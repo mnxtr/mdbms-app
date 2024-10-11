@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react"; // Correctly import useEffect and useState
+import React, { useEffect, useState } from "react";
 import axios from "axios";
 
 const ProductList = () => {
